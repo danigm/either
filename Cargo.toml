@@ -1,6 +1,6 @@
 [package]
 name = "either"
-version = "1.5.3"
+version = "1.5.99"
 authors = ["bluss"]
 
 license = "MIT/Apache-2.0"
